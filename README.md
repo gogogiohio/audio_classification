@@ -1,4 +1,8 @@
 # Context Before Sound
+Name: LET US POOP
+Date: March 2026
+Author: Zhang Yuxin (Giogio) and Lexin Li (Lexin)
+
 
 ## 1. Project Overview
 
