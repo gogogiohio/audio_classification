@@ -1,6 +1,6 @@
 # Context Before Sound
-Name: LET US POOP
-Date: March 2026
+Name: Context Before Sound
+Date: 1 March 2026
 Author: Zhang Yuxin (Giogio) and Lexin Li (Lexin)
 
 
